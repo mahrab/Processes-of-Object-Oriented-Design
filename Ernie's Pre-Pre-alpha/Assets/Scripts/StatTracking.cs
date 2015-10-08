@@ -5,11 +5,14 @@ public class StatTracking : MonoBehaviour {
     public GameObject obj;
     public Transform spawn;
     public Texture2D back;
-    public Texture2D front; 
+    public Texture2D front;
+    public Texture2D xpFront;
+    public Texture2D xpBack;
     float maxHealth;
     float health;
     int xp;
     int healthBarHieght;
+    int xpBarLength;
     int level;
     float healthRegen;
     float power;
@@ -23,6 +26,7 @@ public class StatTracking : MonoBehaviour {
         healthRegen = .75f;
         power = 1.00f;
         healthBarHieght = Screen.height / 3;
+        xpBarLength = Screen.width * 2 / 3;
 	}
     public float giveDamage()
     {
@@ -42,6 +46,12 @@ public class StatTracking : MonoBehaviour {
         GUI.Box(new Rect(0, 0, 32, healthBarHieght), back);
         GUI.BeginGroup(new Rect(0, 0, 32, (health / maxHealth)*healthBarHieght));
         GUI.Box(new Rect(0, 0, 32, healthBarHieght),front);
+        GUI.EndGroup();
+        GUI.EndGroup();
+        GUI.BeginGroup(new Rect(Screen.width *3/4,0,xpBarLength,32));
+        GUI.Box(new Rect(Screen.width *3/ 4, 0, xpBarLength, 32), xpBack);
+        GUI.BeginGroup(new Rect(Screen.width *3/ 4, 0, xp * Tree[level] / xpBarLength, 32));
+        GUI.Box(new Rect(Screen.width *3/4, 0, xpBarLength, 32), xpFront);
         GUI.EndGroup();
         GUI.EndGroup();
     }
