@@ -1,0 +1,368 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+<<<<<<< HEAD
+    Renderer: AMD Radeon (TM) R5 M330 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2036 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.243 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-master\Game Networking\Build_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1858 -> priority: 1 
+=======
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.100 seconds
+desktop: 2160x1440 59Hz; virtual: 2160x1440 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\xmast\Documents\GitHub\Processes-of-Object-Oriented-Design\Game Networking\Build_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1aa0 -> priority: 1 
+Update Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+<<<<<<< HEAD
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Join Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+OnJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+<<<<<<< HEAD
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+The observed monobehaviour (NetworkManager) of this PhotonView does not implement OnPhotonSerializeView()!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+<<<<<<< HEAD
+NullReferenceException: Object reference not set to an instance of an object
+  at Shooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+<<<<<<< HEAD
+NullReferenceException: Object reference not set to an instance of an object
+  at Shooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+<<<<<<< HEAD
+NullReferenceException: Object reference not set to an instance of an object
+  at Shooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+<<<<<<< HEAD
+NullReferenceException: Object reference not set to an instance of an object
+  at Shooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+<<<<<<< HEAD
+NullReferenceException: Object reference not set to an instance of an object
+  at Shooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+<<<<<<< HEAD
+NullReferenceException: Object reference not set to an instance of an object
+  at Shooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+<<<<<<< HEAD
+NullReferenceException: Object reference not set to an instance of an object
+  at Shooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+<<<<<<< HEAD
+NullReferenceException: Object reference not set to an instance of an object
+  at Shooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
