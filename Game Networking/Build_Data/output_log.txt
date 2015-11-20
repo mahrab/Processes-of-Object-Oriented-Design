@@ -3,6 +3,7 @@ GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
 <<<<<<< HEAD
+<<<<<<< HEAD
     Renderer: AMD Radeon (TM) R5 M330 (ID=0x6660)
     Vendor:   ATI
     VRAM:     2036 MB
@@ -29,6 +30,8 @@ Platform assembly: C:\Users\Fred\Documents\Processes-of-Object-Oriented-Design-m
 Setting up 1 worker threads for Enlighten.
   Thread -> id: 1858 -> priority: 1 
 =======
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
     Renderer: Intel(R) HD Graphics Family (ID=0xa16)
     Vendor:   Intel
     VRAM:     128 MB
@@ -103,13 +106,19 @@ Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
+<<<<<<< HEAD
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
@@ -158,13 +167,19 @@ Join Error
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
+<<<<<<< HEAD
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 OnJoinedRoom
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
@@ -213,17 +228,23 @@ Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
+<<<<<<< HEAD
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 The observed monobehaviour (NetworkManager) of this PhotonView does not implement OnPhotonSerializeView()!
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 NullReferenceException: Object reference not set to an instance of an object
   at Shooting.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 =======
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
@@ -251,12 +272,16 @@ Hit
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+<<<<<<< HEAD
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 NullReferenceException: Object reference not set to an instance of an object
   at Shooting.Update () [0x00000] in <filename unknown>:0 
@@ -267,11 +292,17 @@ Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 NullReferenceException: Object reference not set to an instance of an object
   at Shooting.Update () [0x00000] in <filename unknown>:0 
@@ -282,11 +313,17 @@ Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 NullReferenceException: Object reference not set to an instance of an object
   at Shooting.Update () [0x00000] in <filename unknown>:0 
@@ -297,11 +334,17 @@ Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 NullReferenceException: Object reference not set to an instance of an object
   at Shooting.Update () [0x00000] in <filename unknown>:0 
@@ -312,11 +355,17 @@ Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 NullReferenceException: Object reference not set to an instance of an object
   at Shooting.Update () [0x00000] in <filename unknown>:0 
@@ -327,11 +376,17 @@ Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 NullReferenceException: Object reference not set to an instance of an object
   at Shooting.Update () [0x00000] in <filename unknown>:0 
@@ -342,17 +397,25 @@ Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 NullReferenceException: Object reference not set to an instance of an object
   at Shooting.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 =======
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
@@ -360,7 +423,10 @@ Hit
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+<<<<<<< HEAD
 >>>>>>> 9d29ae26ed2ef817a76e7daa75cd2920a24da5e5
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
 
 Hit
  

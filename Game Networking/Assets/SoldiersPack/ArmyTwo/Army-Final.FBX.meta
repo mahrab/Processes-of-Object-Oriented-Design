@@ -125,7 +125,10 @@ ModelImporter:
     400118: Body
     4300000: Body
     7400000: Take 001
+<<<<<<< HEAD
     9500000: //RootNode
+=======
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
     11100000: //RootNode
     13700000: Body
   materials:
@@ -138,6 +141,7 @@ ModelImporter:
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
+<<<<<<< HEAD
     animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
       might lower retargeting quality:\nNote: Activate translation DOF on avatar to
       improve retargeting quality.\n\t'Bip001 Spine' has translation animation that
@@ -152,6 +156,12 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 3
+=======
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
     animationRotationError: .5
     animationPositionError: .5
     animationScaleError: .5
@@ -184,6 +194,7 @@ ModelImporter:
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+<<<<<<< HEAD
     human:
     - boneName: Bip001 Pelvis
       humanName: Hips
@@ -806,6 +817,10 @@ ModelImporter:
       rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
+=======
+    human: []
+    skeleton: []
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
     armTwist: .5
     foreArmTwist: .5
     upperLegTwist: .5
@@ -814,10 +829,15 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
+<<<<<<< HEAD
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 3
   humanoidOversampling: 1
+=======
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+>>>>>>> 137a33f859d885ac810ff38fdd79fe080e493570
   additionalBone: 0
   userData: 
   assetBundleName: 
